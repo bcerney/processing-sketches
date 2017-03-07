@@ -1,0 +1,3 @@
+# Processing Sketches #
+
+This is a collection of Processing and p5.js sketches that I have written as I explore the two frameworks. Processing is "a flexible software sketchbook and a language for learning how to code within the context of the visual arts", featuring syntax built on Java. p5.js "is a JavaScript library that starts with the original goal of Processing, to make coding accessible for artists, designers, educators, and beginners." For more information, visit [https://processing.org/](Link URL) or [https://p5js.org/](Link URL)
